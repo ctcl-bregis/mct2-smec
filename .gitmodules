@@ -1,0 +1,3 @@
+[submodule "kernel"]
+	path = kernel
+	url = git@github.com:ctcl-bregis/mct2-smec-kernel.git

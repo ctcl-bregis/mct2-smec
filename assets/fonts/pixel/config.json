@@ -1,0 +1,52 @@
+{
+    "fonts": {
+        "pixel-7x7": {
+            "variants": {
+                "condensed": "Pixel-7x7-condensed.sfd"
+            }
+        },
+        "pixel-12x12": {
+            "variants": {
+                "condensed": "Pixel-12x12-condensed.sfd",
+                "condensed-light": "Pixel-12x12-condensed-light.sfd"
+            }
+        }
+    },
+    "vecs": [
+        "otf",
+        "svg",
+        "ttf",
+        "woff",
+        "woff2"
+    ],
+    "names": {
+        "true": "True",
+        "true-condensed": "True Condensed",
+        "condensed": "Condensed",
+        "condensed-light": "Condensed Light",
+        "mono": "Mono"
+    },
+    "icons": {
+        "list": [
+            "icons-12x12"
+        ],
+        "codepoints": {
+            "left_triangle": ["23f4"],
+            "right_triangle": ["23f5"],
+            "up_triangle": ["23f6"],
+            "down_triangle": ["23f7"],
+            "pause": ["23f8"],
+            "stop": ["23f9"],
+            "record": ["23fa"],
+            "link": ["1f517"],
+            "zzz": ["1f4a4"],
+            "100": ["1f4af"],
+            "chart_up": ["1f4c8"],
+            "chart_down": ["1f4c9"],
+            "magnifying_left": ["1f50d"],
+            "magnifying_right": ["1f50e"],
+            "battery": ["1f50b"],
+            "desktop": ["1f5a5"]
+        }
+    }
+}
