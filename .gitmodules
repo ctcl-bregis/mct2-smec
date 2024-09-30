@@ -1,3 +1,6 @@
 [submodule "kernel"]
 	path = kernel
 	url = git@github.com:ctcl-bregis/mct2-smec-kernel.git
+[submodule "assets/fonts/pixel"]
+	path = assets/fonts/pixel
+	url = git@github.com:ctcl-bregis/pixel-fonts.git
